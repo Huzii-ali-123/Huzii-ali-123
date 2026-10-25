@@ -1,153 +1,110 @@
 <div align="center">
 
-```
- _____ _   _  _____ _____ _   __ _   _
-/  ___| | | ||  ___|_   _| | / /| | | |
-\ `--.| |_| || |__   | | | |/ / | |_| |
- `--. \  _  ||  __|  | | |    \ |  _  |
-/\__/ / | | || |___ _| |_| |\  \| | | |
-\____/\_| |_/\____/ \___/\_| \_/\_| |_/
+<p><code>huzii-ali-123@github ~ $ neofetch --live</code></p>
 
- _   _ _   _  ______  ___  ___________ ___
-| | | | | | ||___  / / _ \|_   _|  ___/ _ \
-| |_| | | | |   / / / /_\ \ | | | |_ / /_\ \
-|  _  | | | |  / /  |  _  | | | |  _||  _  |
-| | | | |_| |./ /___| | | |_| |_| |  | | | |
-\_| |_/\___/ \_____/\_| |_/\___/\_|  \_| |_/
-```
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="Chupappi animated terminal portrait" />
+</picture>
+</td>
+</tr>
+</table>
 
-![](https://komarev.com/ghpvc/?username=Huzii-ali-123&color=39ff14&style=flat-square&label=CONNECTIONS)
-![](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/UPTIME-19_YEARS-39ff14?style=flat-square&labelColor=000000)
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<pre><code>┌─[ IDENTITY ]──────────────────┐
+│ Chupappi                     │
+│ Frontend or full-stack engin │
+├─[ TELEMETRY ]─────────────────┤
+│ repos                 13 │
+│ stars                  1 │
+│ contributions         71 │
+│ followers              5 │
+│ location      Pakistan       │
+└───────────────────────────────┘</code></pre>
+</td>
+</tr>
+</table>
 
+<p><strong>● ONLINE</strong> · Full-stack developer (MERN, Next.js, TypeScript) | Founder of Vortanxia | Building fast, SEO-optimized web apps for businesses | Karachi, PK 🇵🇰</p>
 </div>
 
-<div align="center">
+<h2><code>$ tail -n 7 /var/log/build.log</code></h2>
 
-```
-root@huzi:~$ ./boot_sequence.sh
+<pre><code>[ok] identity loaded: Chupappi
+[ok] role detected: Frontend or full-stack engineer
+[ok] environment: GitHub public cloud
+[ok] workspace: independent
+[ok] coordinates: Pakistan
+[ok] primary stack: TypeScript · HTML · JavaScript · CSS
+[run] Full-stack developer (MERN, Next.js, TypeScript) | Founder of Vortanxia | Building fast, SEO-optimized web apps for businesses | Karachi, PK 🇵🇰</code></pre>
 
-[ OK ] Loading kernel............................ MERN_STACK
-[ OK ] Mounting filesystem........................ /dev/karachi
-[ OK ] Starting daemon............................ hifz.service
-[ OK ] Initializing module......................... generative_ai.ko
-[WARN] Legacy dependency detected.................. sleep_schedule (ignored)
-[ OK ] Network interface up........................ eth0: PACEMUN_MEDIA
-[ OK ] All systems nominal — dropping to shell
+<p>Building, learning, and shipping useful systems in public.</p>
 
-root@huzi:~$ _
-```
+<h2><code>$ which --all toolchain</code></h2>
 
-</div>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&v=terminal-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="Chupappi terminal toolchain" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>TypeScript</strong><br /><sub>66%</sub></td>
+<td width="25%" align="center"><strong>HTML</strong><br /><sub>24%</sub></td>
+<td width="25%" align="center"><strong>JavaScript</strong><br /><sub>9%</sub></td>
+<td width="25%" align="center"><strong>CSS</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
 
-### `root@huzi:~# whoami --verbose`
+<h2><code>$ git launchpad --all</code></h2>
 
-```py
-class Huzaifa:
-    def __init__(self):
-        self.name        = "Sheikh M. Huzaifa"
-        self.alias        = "Huzi"
-        self.age          = 19
-        self.base         = "Karachi, Pakistan"
-        self.role         = "Full Stack Developer :: MERN"
-        self.credentials  = ["Hafiz-e-Quran", "PACEMUN Media Director"]
-        self.compiling    = ["Generative AI", "LLM integration", "System Design"]
-        self.status       = "ALWAYS_BUILDING"
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc%2Chuzii-ali-123%2Ftruek-inspection-test-&v=terminal-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc%2Chuzii-ali-123%2Ftruek-inspection-test-&v=terminal-projects-1&mode=dark" width="860" alt="Chupappi terminal project launchpad" />
+</picture></p>
 
-    def philosophy(self):
-        return "ship it, break it, fix it, ship it again"
+<table width="100%">
+<tr>
+<td width="20%" valign="top"><p><code>Khantextile</code></p><p>A public repository worth exploring.</p><p><sub>TypeScript · ⭐ 1</sub></p><a href="https://github.com/Huzii-ali-123/Khantextile">open →</a></td>
+<td width="20%" valign="top"><p><code>Vortanxia</code></p><p>A public repository worth exploring.</p><p><sub>HTML · ⭐ 0</sub></p><a href="https://github.com/Huzii-ali-123/Vortanxia">open →</a></td>
+<td width="20%" valign="top"><p><code>Huzii-ali-123</code></p><p>A public repository worth exploring.</p><p><sub>multi-stack · ⭐ 0</sub></p><a href="https://github.com/Huzii-ali-123/Huzii-ali-123">open →</a></td>
+<td width="20%" valign="top"><p><code>abc</code></p><p>A public repository worth exploring.</p><p><sub>multi-stack · ⭐ 0</sub></p><a href="https://github.com/Huzii-ali-123/abc">open →</a></td>
+<td width="20%" valign="top"><p><code>truek-inspection-test-</code></p><p>A public repository worth exploring.</p><p><sub>TypeScript · ⭐ 0</sub></p><a href="https://github.com/Huzii-ali-123/truek-inspection-test-">open →</a></td>
+</tr>
+</table>
 
-me = Huzaifa()
-```
+<h2><code>$ git status --short</code></h2>
 
----
+<p align="center"><strong>working tree: clean · shipping consistently</strong></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&v=terminal-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&style=terminal&v=terminal-stats-1&mode=dark" width="100%" alt="Chupappi terminal contribution statistics" />
+</picture>
+</p>
 
-### `root@huzi:~# ls -la ./stack/`
+<h2><code>$ git log --graph --all</code></h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&v=terminal-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&v=terminal-heatmap-1&mode=dark" width="100%" alt="Chupappi terminal contribution graph" />
+</picture>
+</p>
 
-**frontend/**
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark"/>
+<h2><code>$ ssh huzii-ali-123@github</code></h2>
 
-**backend/**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&theme=dark"/>
-
-**infra/**
-<img src="https://skillicons.dev/icons?i=js,git,docker,githubactions,aws,kubernetes&theme=dark"/>
-
-</div>
-
----
-
-### `root@huzi:~# cat ./projects/manifest.log`
-
-```diff
-+ [MERN_TASK_MGR]    real-time task orchestration, wired with Socket.io
-    stack :: React / Node.js / MongoDB / Socket.io
-
-+ [AI_CONTENT_GEN]   autonomous content pipeline running on LLM APIs
-    stack :: Next.js / OpenAI / LangChain
-
-+ [PACEMUN_ASSETS]   full brand + media identity system for a MUN conference
-    stack :: Canva / Brand Design
-```
-
----
-
-### `root@huzi:~# systemctl status github-activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Huzii-ali-123&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzii-ali-123&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39ff14&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huzii-ali-123&theme=github-dark-blue&hide_border=true&background=000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="150"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Huzii-ali-123&theme=github-compact&hide_border=true&bg_color=000000&color=39ff14&line=39ff14&point=c9d1d9" width="95%"/>
-
-</div>
-
----
-
-### `root@huzi:~# cat ./trophies.bin`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Huzii-ali-123&theme=chalk&no-frame=true&margin-w=6&row=1"/>
-</div>
-
----
-
-### `root@huzi:~# top -o compiling`
-
-<div align="center">
-
-| PROCESS | PROGRESS |
-|:---|:---|
-| generative-ai.langchain | `[■■■■■■■□□□] 70%` |
-| nextjs.app-router | `[■■■■■■□□□□] 60%` |
-| system-design.arch | `[■■■■■□□□□□] 50%` |
-| cloud.aws-docker-k8s | `[■■■□□□□□□□] 30%` |
-
-</div>
-
----
-
-<div align="center">
-
-`root@huzi:~# ./connect.sh --uplink`
-
-<a href="https://linkedin.com/in/huzaifa-ali-dev/"><img src="https://img.shields.io/badge/LINKEDIN-39ff14?style=flat-square&logo=linkedin&logoColor=000000&labelColor=000000"/></a>
-<a href="mailto:huzaifadx780@gmail.com"><img src="https://img.shields.io/badge/EMAIL-39ff14?style=flat-square&logo=gmail&logoColor=000000&labelColor=000000"/></a>
-<a href="https://www.instagram.com/_huzz.in.muzz_/"><img src="https://img.shields.io/badge/INSTAGRAM-39ff14?style=flat-square&logo=instagram&logoColor=000000&labelColor=000000"/></a>
-<a href="https://facebook.com/huzaifa.ali.363352"><img src="https://img.shields.io/badge/FACEBOOK-39ff14?style=flat-square&logo=facebook&logoColor=000000&labelColor=000000"/></a>
-
-```
-> "Code is like humor. When you have to explain it, it's bad."
-                                              — Cory House
-
-root@huzi:~# exit
-```
-
-</div>
+<p>Ready to pair on a useful problem, review a systems decision, or ship the next small thing.</p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&v=terminal-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=huzii-ali-123&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&v=terminal-social-1&mode=dark" width="100%" alt="Chupappi terminal contact links" />
+</picture></p>
+<p align="center"><a href="https://github.com/huzii-ali-123">GitHub</a> &nbsp;·&nbsp; <a href="https://huzzz.tech">Website</a></p>
+<p align="center"><sub>Chupappi · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
