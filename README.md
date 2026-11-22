@@ -1,101 +1,152 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · HUZII-ALI-123 · LIVE</sub></p>
+<!---->
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=living-identity&label=Chupappi&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=living-identity&label=Chupappi&v=wow-living-identity-1&mode=dark" width="100%" alt="Chupappi animated Living Identity portrait and ASCII name" />
-</picture>
-<p><strong>Frontend or full-stack engineer</strong> · Pakistan</p>
-<p>Full-stack developer (MERN, Next.js, TypeScript) | Founder of Vortanxia | Building fast, SEO-optimized web apps for businesses | Karachi, PK 🇵🇰</p>
-<p><a href="https://github.com/huzii-ali-123">GitHub</a> &nbsp;·&nbsp; <a href="https://huzzz.tech">Website</a></p>
+<p>
+  <!---->
+  <!---->
+  <!---->
+</p>
+
+<p>
+  <a href="https://github.com/huzii-ali-123"><img src="https://img.shields.io/badge/GitHub-11101f?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/your-handle/"><img src="https://img.shields.io/badge/LinkedIn-11101f?style=for-the-badge&logo=linkedin&logoColor=9d7cff" alt="LinkedIn"></a>
+  <a href="https://huzzz.tech"><img src="https://img.shields.io/badge/Portfolio-11101f?style=for-the-badge&logo=vercel&logoColor=9d7cff" alt="Portfolio"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-11101f?style=for-the-badge&logo=gmail&logoColor=9d7cff" alt="Email"></a>
+</p>
+
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## About me
 
-<h2>Identity, with signal</h2>
+<em>✏️ A sentence about you and what you do.</em>
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+## Featured projects
+
+<table>
 <tr>
-<td width="62%" valign="top"><p>Full-stack developer (MERN, Next.js, TypeScript) | Founder of Vortanxia | Building fast, SEO-optimized web apps for businesses | Karachi, PK 🇵🇰</p><p><strong>Focus:</strong> `TypeScript` · `HTML` · `JavaScript`</p><p><sub>Thoughtful collaboration, ambitious products, and useful open source.</sub></p></td>
-<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>13</strong> repos<br /><strong>1</strong> stars<br /><strong>71</strong> contributions<br /><strong>5</strong> followers</p></td>
+<td width="50%" valign="top">
+
+### [Jewellery Store ↗](https://jewellery-frontend-zeta.vercel.app/)
+<em>✏️ Say this in your own words.</em>
+
+`LIVE` · React · E-commerce
+
+</td>
+<td width="50%" valign="top">
+
+### [IronPeak Gym ↗](https://ironpeak-gym.vercel.app/)
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [L'Arora Studio ↗](https://larora-studio.vercel.app/)
+<em>✏️ Say this in your own words.</em>
+
+`LIVE` · React · Vercel
+
+</td>
+<td width="50%" valign="top">
+
+### [Luxe Estate ↗](https://luxe-estate-liart-two.vercel.app/)
+<em>✏️ Say this in your own words.</em>
+
+`LIVE` · React · Vercel
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Chronix Watch Store
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+</td>
+<td width="50%" valign="top">
+
+### Gym Management System
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cubex
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+</td>
+<td width="50%" valign="top">
+
+### E-commerce Customer Segmentation
+<em>✏️ Say this in your own words.</em>
+
+<em>✏️ Say this in your own words.</em>
+
+</td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+> <em>✏️ Say this in your own words.</em>
 
-<h2>What moves the work</h2>
+## Technology stack
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CHTML%3A%3AIn%20the%20build%20queue%7CJavaScript%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Chupappi animated profile highlights" />
-</picture>
-
-<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The tools behind the signal</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Chupappi animated technology stack" />
-</picture>
-
-<p align="center"><sub>TypeScript · HTML · JavaScript · CSS · chosen for the work, not the trend</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Built, shipped, shared</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Chupappi animated project constellation" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&repos=huzii-ali-123%2FKhantextile%2Chuzii-ali-123%2FVortanxia%2Chuzii-ali-123%2FHuzii-ali-123%2Chuzii-ali-123%2Fabc&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Chupappi animated project launch timeline" />
-</picture>
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Huzii-ali-123/Khantextile">Khantextile</a></strong></p><p>A selected project from this public body of work.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Huzii-ali-123/Vortanxia">Vortanxia</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Huzii-ali-123/Huzii-ali-123">Huzii-ali-123</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><p><strong><a href="https://github.com/Huzii-ali-123/abc">abc</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-</tr>
+<table>
+<tr><td valign="top" width="20%"><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" alt="C++, Python, JavaScript, HTML and CSS"></td></tr>
+<tr><td valign="top"><strong>Frontend</strong></td><td><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React and Vite"></td></tr>
+<tr><td valign="top"><strong>Backend</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"></td></tr>
+<tr><td valign="top"><strong>Databases</strong></td><td><img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite&theme=dark" alt="MongoDB, Firebase and SQLite"></td></tr>
+<tr><td valign="top"><strong><em>✏️ The tools you reach for, in a sentence.</em></strong></td><td><img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter&theme=dark" alt="NumPy, Pandas, Scikit-learn and Jupyter Notebook"></td></tr>
+<tr><td valign="top"><strong>Tools</strong></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman and Vercel"></td></tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Momentum, made visible</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Chupappi animated GitHub signal" />
-</picture>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Chupappi contribution energy field" />
-</picture>
-
-<p align="center"><sub>0 day current streak · 19 active days</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+## GitHub analytics
 
 <div align="center">
-<p><sub>KEEP THE SIGNAL MOVING</sub></p>
-<h2>Make something worth noticing</h2>
-<p>I like working with people who care about craft, context, and shipping the useful version.</p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&website=https%3A%2F%2Fhuzzz.tech&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=huzii-ali-123&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144143373%3Fu%3Df4407bd96cbc1f00cc4be60ce1c75d3462abe835%26v%3D4&website=https%3A%2F%2Fhuzzz.tech&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Chupappi contact links" />
-</picture>
-<p><a href="https://github.com/huzii-ali-123">GitHub</a> &nbsp;·&nbsp; <a href="https://huzzz.tech">Website</a></p>
+<!---->
+<br><br>
+<!---->
+<!---->
+<br><br>
+<!---->
+<br><br>
+<!---->
 </div>
+
+<em>✏️ Say this in your own words.</em>
+
+## LeetCode dashboard
+
+<div align="center">
+<a href="https://leetcode.com/huzii-ali-123/"><img src="https://leetcard.jacoblin.cool/huzii-ali-123?theme=dark&font=Baloo&ext=activity" alt="huzii-ali-123 LeetCode dashboard with total, easy, medium, hard and activity" width="100%"></a>
+</div>
+
+<em>✏️ Say this in your own words.</em>
+
+## Connect with me
+
+<div align="center">
+  <a href="https://github.com/huzii-ali-123"><img src="https://img.shields.io/badge/GitHub-huzii--ali--123-9d7cff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/your-handle/"><img src="https://img.shields.io/badge/LinkedIn-Chupappi-9d7cff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="https://huzzz.tech"><img src="https://img.shields.io/badge/Portfolio-Explore-9d7cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-9d7cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
+
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzii-ali-123&label=PROFILE%20VIEWS&color=9d7cff&style=for-the-badge" alt="Profile views">
+  <p><i><em>✏️ A sentence about you and what you do.</em></i></p>
+</div>
+
+<p align="center"><sub>Chupappi · <a href="https://www.gitskins.com/readme-generator?template=community-yashzz-tcfw">Yashzz</a> template by <a href="https://www.gitskins.com/creators/Yashzz26">@Yashzz26</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
